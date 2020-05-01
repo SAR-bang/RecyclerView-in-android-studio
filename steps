@@ -1,0 +1,39 @@
+Create a model CLass
+
+i've java class called corona with attrb cunty ,active, dead , total
+
+
+
+Now we have the adapter 
+
+called corona adapter
+
+
+next we should have a class extending the adapter class
+inside this we should have a  viewholder class
+
+** viewholder just simply represents the views of Recyclerview
+** sim , adapter re data
+
+
+adapterr has abstract methods as
+
+getItemCount() 
+
+onBindViewHolder(holder,pos)
+
+oncreateViewHodler(parent, viewType)
+
+
+// ADapter class
+
+
+
+
+
+
+
+
+
+//
+set adapter to recycler view
