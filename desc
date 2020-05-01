@@ -1,0 +1,29 @@
+Android Studio 
+
+The PaAS platform which lets u build an android based application without stressing more.
+I found it really easy to work in android studio. 
+
+Today, we are gonna cover about the android studio "Recycler view"
+
+As we need to display a lot of data in an application the recyclerview is added
+
+Without affecting the main thread the multiple task can be performed;;
+
+
+ListView can be used if u have smaller datasets
+
+
+
+
+Stpes:: 
+
+create a project
+
+adding dependencies for cardview and recycle view  to avoid large size of android studio
+has separated its features.
+
+
+
+Now Create a RecyclerView inside ur desired  file
+
+add next layout for card view
